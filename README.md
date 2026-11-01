@@ -1,4 +1,4 @@
-# Jibon Sathu Backend
+#Sathu Backend
 
 Zone A (cloud) FastAPI service: Postgres schema, health check, and **`POST /v1/sync/push`** (frozen v1 contract).
 
